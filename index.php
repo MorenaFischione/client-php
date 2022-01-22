@@ -36,7 +36,7 @@
 
     <div class="container">
         
-        <h1>Lista Clienti</h1>
+        <h1 class='py-5'>Lista Clienti</h1>
 
         <table class="table">
             <thead>
